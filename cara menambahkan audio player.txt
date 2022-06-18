@@ -1,0 +1,9 @@
+1. Tambahkan kode berikut ke <head>... </head>
+<script async="async" custom-element="amp-audio" src="https://cdn.ampproject.org/v0/amp-audio-0.1.js"></script>
+
+2. Copy kode berikut di bagian HTML postingan atau sidebar:
+<amp-audio width="auto"
+height="50"
+src="https://yourhost.com/filename.mp3">
+</amp-audio>
+
